@@ -125,22 +125,29 @@ h3 {
 	text-decoration: none;
 }
 
-.block.instgram:hover {
+.block.linkedin:hover {
 	background: #5851db;
 	letter-spacing: 2px;
 	-webkit-transition: all .25s cubic-bezier(.08, .59, .29, .99);
 	transition: all .25s cubic-bezier(.08, .59, .29, .99);
 }
 
-.block.dribbble:hover {
-	background: #ea4c89;
+.block.twitter:hover {
+	background: #1da1f2;
 	letter-spacing: 2px;
 	-webkit-transition: all .25s cubic-bezier(.08, .59, .29, .99);
 	transition: all .25s cubic-bezier(.08, .59, .29, .99);
 }
 
-.block.behance:hover {
-	background: #1769ff;
+.block.github:hover {
+	background: #24292e;
+	letter-spacing: 2px;
+	-webkit-transition: all .25s cubic-bezier(.08, .59, .29, .99);
+	transition: all .25s cubic-bezier(.08, .59, .29, .99);
+}
+
+.block.medium:hover {
+	background: rgba(0,0,0,.54);
 	letter-spacing: 2px;
 	-webkit-transition: all .25s cubic-bezier(.08, .59, .29, .99);
 	transition: all .25s cubic-bezier(.08, .59, .29, .99);
