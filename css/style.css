@@ -126,7 +126,7 @@ h3 {
 }
 
 .block.linkedin:hover {
-	background: #5851db;
+	background: #0073b1;
 	letter-spacing: 2px;
 	-webkit-transition: all .25s cubic-bezier(.08, .59, .29, .99);
 	transition: all .25s cubic-bezier(.08, .59, .29, .99);
